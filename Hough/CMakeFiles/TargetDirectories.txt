@@ -1,0 +1,3 @@
+/data/Documents/2019/Automatic Image Analysis/AIA3/mat/CMakeFiles/rebuild_cache.dir
+/data/Documents/2019/Automatic Image Analysis/AIA3/mat/CMakeFiles/aia3.dir
+/data/Documents/2019/Automatic Image Analysis/AIA3/mat/CMakeFiles/edit_cache.dir
